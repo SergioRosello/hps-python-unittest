@@ -35,6 +35,6 @@ To build the project and run the tests, use the following command:
     bin/buildout
     bin/test --with-xunit
 
-The SUT implementation can be seen in [``src/coffee_machine.py``](https://github.com/hiptest/hps-python-unittest/blob/master/src/coffee_machine.py)
+The SUT implementation can be seen in [``src/coffee_machine.py``](https://github.com/hiptest/hps-python-unittest/blob/master/src/coffee_machine.py) 
 
 The test report is generated in ```nosetests.xml```
